@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d83df2ae64ce1e94f9c006b9d326bf02, type: 3}
-  m_Name: UltraWide_modio
+  m_Name: UltraWide2_modio
   m_EditorClassIdentifier: 
   modId: 5256295
   modSettings: {fileID: 11400000, guid: dcdd103ca6c37cb4a92c56a97c6c7313, type: 2}
   logo: {fileID: 0}
-  summary: Corekeeper in 21:9 and 16:10
+  summary: Corekeeper in 32:9 and 16:10
